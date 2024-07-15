@@ -12,12 +12,14 @@ The inputs are:
 - T1 file path
 - T2 file path
 - T1c file path
-![image](https://github.com/user-attachments/assets/47e3743f-ec4b-4ed5-81c1-dd4ee8c80fb9)
+![image](https://github.com/user-attachments/assets/d2a5386a-45f2-4693-94eb-08ec39fd5f14)
+
 
 
 ## Outputs
 The outputs from the brats preprocessor are the following folders.
 ![image](https://github.com/user-attachments/assets/101b517b-56ab-44d5-9f20-02729389f20c)
 
-afasfdgsfhgshrs
+The outputs from the first folder are used to perform further processing in the pipeline. The segmentation of the pre-processed data. 
+For segmenting the above acquired preprocessed data, use the SlicerBratsSegmentator module. 
 
