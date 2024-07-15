@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable>
+  <category>Examples</category>
+  <index>0</index>
+  <title>SlicerBratsPreprocessor</title>
+  <description><![CDATA[This scripted cli module will perform necessary preprocessing of the image file]]></description>
+  <version>0.1.0.</version>
+  <documentation-url>https://github.com/username/project</documentation-url>
+  <license/>
+  <contributor>Saima Safdar(UWA)</contributor>
+  <acknowledgements><![CDATA[This work is part of the Royal Perth Hospital grant and Sir Charles Gairdner Hospital grant.]]></acknowledgements>
+  <parameters>
+    
+    <label>IO</label>
+    <description><![CDATA[Input/output parameters]]></description>
+    
+  
+    
+    <directory>
+    	<name>directoryPath</name>
+    	<label>Input Directory Path</label>
+    	<channel>input</channel>
+    	<index>1</index>
+    	<description><![CDATA[Input directory containg the data sets/ cohort of patients]]></description>
+    </directory>
+    
+    <file>
+    	<name>FlairFilePath</name>
+    	<label>Flair File Path</label>
+    	<channel>input</channel>
+    	<index>3</index>
+    </file>
+    <file>
+    	<name>T1FilePath</name>
+    	<label>T1 File Path</label>
+    	<channel>input</channel>
+    	<index>4</index>
+    </file>
+    <file>
+    	<name>T2FilePath</name>
+    	<label>T2 File Path</label>
+    	<channel>input</channel>
+    	<index>5</index>
+    </file>
+    <file>
+    	<name>T1cFilePath</name>
+    	<label>T1c File Path</label>
+    	<channel>input</channel>
+    	<index>6</index>
+    </file>
+    	
+  </parameters>
+</executable>
