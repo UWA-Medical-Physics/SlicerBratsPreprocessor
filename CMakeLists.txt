@@ -5,7 +5,7 @@ project(SlicerBratsPreprocessor)
 #-----------------------------------------------------------------------------
 # Extension meta-information
 set(EXTENSION_HOMEPAGE "https://github.com/UWA-Medical-Physics/SlicerBratsPreprocessor")
-set(EXTENSION_CATEGORY "Slicer-Bratstoolkit")
+set(EXTENSION_CATEGORY "Slicer-BratsToolkit")
 set(EXTENSION_CONTRIBUTORS "saima safdar (UWA)")
 set(EXTENSION_DESCRIPTION "Supports image preprocessing steps and is based on the brats toolkit preprocessor.")
 set(EXTENSION_ICONURL "https://github.com/UWA-Medical-Physics/SlicerBatchBrainMRTumorSegmentation/blob/main/BatchBrainMRTumorSegmentation.png")
