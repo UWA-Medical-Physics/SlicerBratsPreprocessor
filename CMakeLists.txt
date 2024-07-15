@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-set(MODULE_NAME BratsPreprocessor)
+set(MODULE_NAME SlicerBratsPreprocessor)
 
 SlicerMacroBuildScriptedCLI(
   NAME ${MODULE_NAME}
