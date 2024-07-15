@@ -22,5 +22,5 @@ The outputs from the brats preprocessor are the following folders.
 ![image](https://github.com/user-attachments/assets/101b517b-56ab-44d5-9f20-02729389f20c)
 
 The outputs from the first folder are used to perform further processing in the pipeline. The segmentation of the pre-processed data. 
-For segmenting the above acquired preprocessed data, use the SlicerBratsSegmentator module. 
+For segmenting the above acquired preprocessed data, use the SlicerBratsSegmentator module. https://github.com/UWA-Medical-Physics/SlicerBratsSegmentator
 
