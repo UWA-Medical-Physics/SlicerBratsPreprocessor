@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <executable>
-  <category>Examples</category>
+  <category>Slicer-Bratstoolkit</category>
   <index>0</index>
   <title>SlicerBratsPreprocessor</title>
   <description><![CDATA[This scripted cli module will perform necessary preprocessing of the image file]]></description>
