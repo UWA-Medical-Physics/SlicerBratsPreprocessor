@@ -9,7 +9,7 @@ set(EXTENSION_CATEGORY "Slicer-Bratstoolkit")
 set(EXTENSION_CONTRIBUTORS "saima safdar (UWA)")
 set(EXTENSION_DESCRIPTION "Supports image preprocessing steps and is based on the brats toolkit preprocessor.")
 set(EXTENSION_ICONURL "https://github.com/UWA-Medical-Physics/SlicerBatchBrainMRTumorSegmentation/blob/main/BatchBrainMRTumorSegmentation.png")
-set(EXTENSION_SCREENSHOTURLS "https://github.com/UWA-Medical-Physics/SlicerBatchBrainMRTumorSegmentation/blob/main/Screenshot%20from%202024-02-06%2012-11-03.png")
+set(EXTENSION_SCREENSHOTURLS "https://github.com/UWA-Medical-Physics/SlicerBratsPreprocessor/blob/main/SlicerBratsPreprocessor.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
