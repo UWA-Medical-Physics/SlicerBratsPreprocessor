@@ -12,7 +12,8 @@ The inputs are:
 - T1 file path
 - T2 file path
 - T1c file path
-![image](https://github.com/user-attachments/assets/d2a5386a-45f2-4693-94eb-08ec39fd5f14)
+![image](https://github.com/user-attachments/assets/3f4e9f6d-bf34-41d3-8d50-c905499a0e25)
+
 
 
 
